@@ -34,4 +34,4 @@ TCP Socket Server EXE
 ## 4. ป๙วร
 ![Monitor](./img/SocketClient.JPG)
 
-![Monitor](./img/SocketServer.JPG)
+![Monitor](./img/SockerServer.JPG)
