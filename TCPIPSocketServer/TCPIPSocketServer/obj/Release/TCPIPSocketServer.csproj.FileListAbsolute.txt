@@ -1,0 +1,8 @@
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\bin\Release\TCPIPSocketServer.exe
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\bin\Release\TCPIPSocketServer.pdb
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\ResolveAssemblyReference.cache
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\TCPIPSocketServer.Form1.resources
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\TCPIPSocketServer.Properties.Resources.resources
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\TCPIPSocketServer.csproj.GenerateResource.Cache
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\TCPIPSocketServer.exe
+D:\ZMyDev\GitHub\SocketServerClientExe\TCPIPSocketServer\TCPIPSocketServer\obj\Release\TCPIPSocketServer.pdb
